@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Ah新的生活小札',
   domain: 'https://blog.2xn.top',
-  author: 'ah新,
+  author: 'ah新',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
