@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'ah新',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Ah新的生活小札',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
